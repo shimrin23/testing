@@ -4,3 +4,31 @@ Additional edits made to this branch:
 - Added new content to demonstrate branch changes
 - Testing file modifications
 - Ready for commit
+
+## Code Examples
+
+### JavaScript Function
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet("World"));
+```
+
+### Python Example
+```python
+def calculate_sum(a, b):
+    return a + b
+
+result = calculate_sum(10, 20)
+print(f"Sum: {result}")
+```
+
+### HTML Snippet
+```html
+<div class="container">
+    <h1>Welcome</h1>
+    <p>This is a demo page.</p>
+</div>
+```
